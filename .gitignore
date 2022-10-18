@@ -1,6 +1,6 @@
 
 # Should be removed when we start implementing some.
-tests/
+# tests/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
